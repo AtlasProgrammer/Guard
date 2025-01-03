@@ -45,9 +45,7 @@ Download or clone the repository containing the program code:
 
 Verify
 
-Open In Editor
-Run
-Copy code
+Open In Editor run copy code
 ```bash
 git clone [<REPOSITORY_URL>](https://github.com/AtlasProgrammer/Guard.git)
 ```
@@ -70,10 +68,7 @@ Running the Program
 
 After configuration, you can run the program by executing the following command in the terminal:
 
-
-- Open In Editor
-- Run
-- Copy code
+Open In Editor run copy code
 
 ```bash
 python Guard_Mark_III.py
