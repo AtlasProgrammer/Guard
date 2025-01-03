@@ -61,11 +61,11 @@ Running the Program
 After configuration, you can run the program by executing the following command in the terminal:
 
 
-```bash
+- Open In Editor
+- Run
+- Copy code
 
-Open In Editor
-Run
-Copy code
+```bash
 python Guard_Mark_III.py
 ```
 ### Usage
