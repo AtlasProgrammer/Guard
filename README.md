@@ -31,7 +31,7 @@ pip install pyautogui
 pip install pydirectinput
 pip install pywin32
 pip install python-imagesearch
-```bash
+```
 Cloning the Repository
 
 
