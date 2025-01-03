@@ -32,6 +32,12 @@ pip install pydirectinput
 pip install pywin32
 pip install python-imagesearch
 ```
+
+or
+
+```bash
+pip install requirements.txt
+```
 Cloning the Repository
 
 
