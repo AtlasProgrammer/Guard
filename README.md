@@ -9,12 +9,12 @@ This code was created solely for educational purposes and was used to study comp
 Requirements
 Before installation, ensure that you have the following libraries installed:
 
-⋅⋅⋅Python 3.x⋅⋅
-⋅⋅⋅OpenCV⋅⋅
-⋅⋅⋅PyAutoGUI⋅⋅
-⋅⋅⋅PyDirectInput⋅⋅
-⋅⋅⋅pywin32⋅⋅
-⋅⋅⋅python-imagesearch⋅⋅
+Python 3.x
+*OpenCV
+*PyAutoGUI
+*PyDirectInput
+*pywin32
+*python-imagesearch
 Installing Libraries
 You can install the required libraries using pip. Open the command line and execute the following commands:
 
