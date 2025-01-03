@@ -31,10 +31,11 @@ pip install pyautogui
 pip install pydirectinput
 pip install pywin32
 pip install python-imagesearch
+```bash
 Cloning the Repository
-Download or clone the repository containing the program code:
 
-bash
+
+Download or clone the repository containing the program code:
 
 Verify
 
