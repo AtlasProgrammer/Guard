@@ -1,4 +1,4 @@
-# Guard
+# Guard Mark III
 
 Simple OpenCV bot for Albion Online, now in Mark III version.
 
