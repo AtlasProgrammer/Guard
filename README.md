@@ -48,29 +48,31 @@ Configuration
 Recognition Images
 Ensure that you have the images required for the program to work. They should be located in the Data folder and include:
 
-leader.png - image of your character.
-pve.png - image for PvE.
-pvp.png - image for PvP.
-hourse.png - image for interacting with the horse.
+- leader.png - image of your character.
+- pve.png - image for PvE.
+- pvp.png - image for PvP.
+- hourse.png - image for interacting with the horse.
+
 Screen Resolution
 Make sure that your screen resolution matches the values specified in the Screenshot() function. The current version is set to 1920x1080.
 
 Running the Program
+
 After configuration, you can run the program by executing the following command in the terminal:
 
-bash
 
-Verify
+```bash
 
 Open In Editor
 Run
 Copy code
 python Guard_Mark_III.py
-Usage
+```
+### Usage
 The program will continuously run in a loop, capturing the screen and performing actions based on detected objects. It will:
 
-Move the character
-Interact with PvE
-Engage in PvP
-Perform actions with the horse
+### Move the character
+- Interact with PvE
+- Engage in PvP
+- Perform actions with the horse
 
