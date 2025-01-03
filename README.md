@@ -47,7 +47,7 @@ Verify
 
 Open In Editor run copy code
 ```bash
-git clone https://github.com/AtlasProgrammer
+git clone https://github.com/AtlasProgrammer/Guard
 ```
 ```bash
 cd AtlasProgramme
