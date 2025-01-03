@@ -1,0 +1,5 @@
+opencv-python
+pyautogui
+pydirectinput
+pywin32
+python-imagesearch
