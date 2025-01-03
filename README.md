@@ -48,8 +48,12 @@ Verify
 Open In Editor
 Run
 Copy code
-git clone <REPOSITORY_URL>
-cd <REPOSITORY_FOLDER>
+```bash
+git clone [<REPOSITORY_URL>](https://github.com/AtlasProgrammer/Guard.git)
+```
+```bash
+cd AtlasProgramme
+```
 Configuration
 Recognition Images
 Ensure that you have the images required for the program to work. They should be located in the Data folder and include:
